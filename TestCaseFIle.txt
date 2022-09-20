@@ -1,0 +1,37 @@
+Case one:
+    SelectOption1
+    Then input: Zuber
+    SelectOption2
+    Then input: 1
+    SelectOption3
+    Then input: 1000
+    SelectOption4
+    Then input: 200
+    SelectOption5
+    SelectOption6
+    SelectOption7
+
+Case second:
+    SelectOption1
+    Then input: Luffy
+    SelectOption2
+    Then input: 1
+    SelectOption3
+    Then input: 1000
+    SelectOption4
+    Then input: 200
+    SelectOption5
+    SelectOption6
+
+    SelectOption1
+    Then input: Zuber
+    SelectOption2
+    Then input: 2
+    SelectOption3
+    Then input: 1000
+    SelectOption4
+    Then input: 200
+    SelectOption5
+    SelectOption6
+
+    SelectOption7
